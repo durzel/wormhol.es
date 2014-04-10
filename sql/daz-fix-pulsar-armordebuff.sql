@@ -1,0 +1,1 @@
+UPDATE dgmTypeAttributes INNER JOIN dgmAttributeTypes USING(attributeID) SET valueFloat = -(valueFloat) WHERE attributeID IN (1465,1466,1467,1468) AND typeID IN (SELECT invTypes.typeID FROM invTypes WHERE typeName LIKE '%Pulsar% Class %')

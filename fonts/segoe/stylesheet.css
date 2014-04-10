@@ -1,0 +1,219 @@
+@font-face {
+    font-family: 'SegoeBold';
+    src: url('segoebd.eot');
+    src: url('segoebd.eot?#iefix') format('embedded-opentype'),
+         url('segoebd.woff') format('woff'),
+         url('segoebd.ttf') format('truetype'),
+         url('segoebd.svg#SegoeBold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SegoeBoldItalic';
+    src: url('segoebi.eot');
+    src: url('segoebi.eot?#iefix') format('embedded-opentype'),
+         url('segoebi.woff') format('woff'),
+         url('segoebi.ttf') format('truetype'),
+         url('segoebi.svg#SegoeBoldItalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SegoeBlackItalic';
+    src: url('segoebli.eot');
+    src: url('segoebli.eot?#iefix') format('embedded-opentype'),
+         url('segoebli.woff') format('woff'),
+         url('segoebli.ttf') format('truetype'),
+         url('segoebli.svg#SegoeBlackItalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SegoeBlack';
+    src: url('segoeblk.eot');
+    src: url('segoeblk.eot?#iefix') format('embedded-opentype'),
+         url('segoeblk.woff') format('woff'),
+         url('segoeblk.ttf') format('truetype'),
+         url('segoeblk.svg#SegoeBlack') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SegoeCondensedBold';
+    src: url('segoecbd.eot');
+    src: url('segoecbd.eot?#iefix') format('embedded-opentype'),
+         url('segoecbd.woff') format('woff'),
+         url('segoecbd.ttf') format('truetype'),
+         url('segoecbd.svg#SegoeCondensedBold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SegoeCondensedBoldItalic';
+    src: url('segoecbi.eot');
+    src: url('segoecbi.eot?#iefix') format('embedded-opentype'),
+         url('segoecbi.woff') format('woff'),
+         url('segoecbi.ttf') format('truetype'),
+         url('segoecbi.svg#SegoeCondensedBoldItalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SegoeCondensedBoldItalic';
+    src: url('segoecbi.eot');
+    src: url('segoecbi.eot?#iefix') format('embedded-opentype'),
+         url('segoecbi.woff') format('woff'),
+         url('segoecbi.ttf') format('truetype'),
+         url('segoecbi.svg#SegoeCondensedBoldItalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SegoeCondensedItalic';
+    src: url('segoecit.eot');
+    src: url('segoecit.eot?#iefix') format('embedded-opentype'),
+         url('segoecit.woff') format('woff'),
+         url('segoecit.ttf') format('truetype'),
+         url('segoecit.svg#SegoeCondensedItalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SegoeCondensedRegular';
+    src: url('segoecrg.eot');
+    src: url('segoecrg.eot?#iefix') format('embedded-opentype'),
+         url('segoecrg.woff') format('woff'),
+         url('segoecrg.ttf') format('truetype'),
+         url('segoecrg.svg#SegoeCondensedRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SegoeItalic';
+    src: url('segoeit.eot');
+    src: url('segoeit.eot?#iefix') format('embedded-opentype'),
+         url('segoeit.woff') format('woff'),
+         url('segoeit.ttf') format('truetype'),
+         url('segoeit.svg#SegoeItalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SegoeLight';
+    src: url('segoel.eot');
+    src: url('segoel.eot?#iefix') format('embedded-opentype'),
+         url('segoel.woff') format('woff'),
+         url('segoel.ttf') format('truetype'),
+         url('segoel.svg#SegoeLight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SegoeLightItalic';
+    src: url('segoeli.eot');
+    src: url('segoeli.eot?#iefix') format('embedded-opentype'),
+         url('segoeli.woff') format('woff'),
+         url('segoeli.ttf') format('truetype'),
+         url('segoeli.svg#SegoeLightItalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SegoePrint';
+    src: url('segoe-print.eot');
+    src: url('segoe-print.eot?#iefix') format('embedded-opentype'),
+         url('segoe-print.woff') format('woff'),
+         url('segoe-print.ttf') format('truetype'),
+         url('segoe-print.svg#SegoePrint') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SegoeRegular';
+    src: url('segoerg.eot');
+    src: url('segoerg.eot?#iefix') format('embedded-opentype'),
+         url('segoerg.woff') format('woff'),
+         url('segoerg.ttf') format('truetype'),
+         url('segoerg.svg#SegoeRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SegoeSemibold';
+    src: url('segoesb.eot');
+    src: url('segoesb.eot?#iefix') format('embedded-opentype'),
+         url('segoesb.woff') format('woff'),
+         url('segoesb.ttf') format('truetype'),
+         url('segoesb.svg#SegoeSemibold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SegoeSemiboldItalic';
+    src: url('segoesbi.eot');
+    src: url('segoesbi.eot?#iefix') format('embedded-opentype'),
+         url('segoesbi.woff') format('woff'),
+         url('segoesbi.ttf') format('truetype'),
+         url('segoesbi.svg#SegoeSemiboldItalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SegoeUI';
+    src: url('segoeui.eot');
+    src: url('segoeui.eot?#iefix') format('embedded-opentype'),
+         url('segoeui.woff') format('woff'),
+         url('segoeui.ttf') format('truetype'),
+         url('segoeui.svg#SegoeUI') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SegoeUIBold';
+    src: url('segoeuib.eot');
+    src: url('segoeuib.eot?#iefix') format('embedded-opentype'),
+         url('segoeuib.woff') format('woff'),
+         url('segoeuib.ttf') format('truetype'),
+         url('segoeuib.svg#SegoeUIBold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SegoeUIItalic';
+    src: url('segoeuii.eot');
+    src: url('segoeuii.eot?#iefix') format('embedded-opentype'),
+         url('segoeuii.woff') format('woff'),
+         url('segoeuii.ttf') format('truetype'),
+         url('segoeuii.svg#SegoeUIItalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SegoeUIBoldItalic';
+    src: url('segoeuiz.eot');
+    src: url('segoeuiz.eot?#iefix') format('embedded-opentype'),
+         url('segoeuiz.woff') format('woff'),
+         url('segoeuiz.ttf') format('truetype'),
+         url('segoeuiz.svg#SegoeUIBoldItalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
